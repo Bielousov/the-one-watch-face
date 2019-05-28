@@ -1,0 +1,4 @@
+<fonts>
+	<font id="HoursFont" filename="futura-condensed-medium-120.fnt" antialias="true"/>
+	<font id="MinutesFont" filename="futura-condensed-medium-120.fnt" antialias="true"/>
+</fonts>

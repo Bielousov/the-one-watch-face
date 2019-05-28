@@ -1,7 +1,8 @@
-using Toybox.Application;
-using Toybox.WatchUi;
+using Toybox.Application as App;
+using Toybox.WatchUi as Ui;
 
-class TheOneWatchFaceApp extends Application.AppBase {
+class TheOneWatchFaceApp extends App.AppBase {
+	private var mView; 
 
     function initialize() {
         AppBase.initialize();
@@ -17,12 +18,13 @@ class TheOneWatchFaceApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new TheOneWatchFaceView() ];
+        mView = new TheOneWatchFaceView();
+        return [mView];
     }
 
     // New app settings have been received so trigger a UI update
     function onSettingsChanged() {
-        WatchUi.requestUpdate();
+        Ui.requestUpdate();
     }
 
 }

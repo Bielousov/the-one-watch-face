@@ -7,87 +7,108 @@
         <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceBackground.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
         <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceBackground.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
         <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceBackground.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="6" lineNum="6" pc="268435572" symbol="initialize"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="6" lineNum="7" pc="268435576" symbol="initialize"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="7" lineNum="11" pc="268435595" symbol="onStart"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="8" lineNum="15" pc="268435600" symbol="onStop"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="9" lineNum="19" pc="268435605" symbol="getInitialView"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="9" lineNum="20" pc="268435609" symbol="getInitialView"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="10" lineNum="24" pc="268435647" symbol="onSettingsChanged"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="10" lineNum="25" pc="268435651" symbol="onSettingsChanged"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="12" lineNum="9" pc="268435668" symbol="initialize"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="12" lineNum="10" pc="268435672" symbol="initialize"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="13" lineNum="14" pc="268435691" symbol="onLayout"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="13" lineNum="15" pc="268435695" symbol="onLayout"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="14" lineNum="21" pc="268435733" symbol="onShow"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="25" pc="268435738" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="27" pc="268435742" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="28" pc="268435749" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="29" pc="268435766" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="30" pc="268435776" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="31" pc="268435801" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="32" pc="268435812" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="35" pc="268435828" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="36" pc="268435860" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="37" pc="268435867" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="40" pc="268435888" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="43" pc="268435953" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="44" pc="268435977" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="45" pc="268436018" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="48" pc="268436032" symbol="onUpdate"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="16" lineNum="54" pc="268436053" symbol="onHide"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="17" lineNum="58" pc="268436058" symbol="onExitSleep"/>
-        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="18" lineNum="62" pc="268436063" symbol="onEnterSleep"/>
-        <entry filename="Rez" id="25" lineNum="29" pc="268436068" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="33" pc="268436080" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="34" pc="268436104" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="36" pc="268436267" symbol="WatchFace"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="6" lineNum="7" pc="268435572" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="6" lineNum="8" pc="268435576" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="7" lineNum="12" pc="268435595" symbol="onStart"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="8" lineNum="16" pc="268435600" symbol="onStop"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="9" lineNum="20" pc="268435605" symbol="getInitialView"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="9" lineNum="21" pc="268435609" symbol="getInitialView"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="9" lineNum="22" pc="268435639" symbol="getInitialView"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="10" lineNum="26" pc="268435663" symbol="onSettingsChanged"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceApp.mc" id="10" lineNum="27" pc="268435667" symbol="onSettingsChanged"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="12" lineNum="13" pc="268435684" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="12" lineNum="14" pc="268435688" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="13" lineNum="18" pc="268435707" symbol="onLayout"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="13" lineNum="19" pc="268435711" symbol="onLayout"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="14" lineNum="25" pc="268435749" symbol="onShow"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="29" pc="268435754" symbol="onUpdate"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="15" lineNum="31" pc="268435758" symbol="onUpdate"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="16" lineNum="37" pc="268435779" symbol="onHide"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="17" lineNum="41" pc="268435784" symbol="onExitSleep"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/TheOneWatchFaceView.mc" id="18" lineNum="45" pc="268435789" symbol="onEnterSleep"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="20" lineNum="22" pc="268435794" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="20" lineNum="23" pc="268435798" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="20" lineNum="25" pc="268435818" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="20" lineNum="26" pc="268435870" symbol="initialize"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="21" lineNum="29" pc="268435923" symbol="draw"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="21" lineNum="30" pc="268435927" symbol="draw"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="33" pc="268435942" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="34" pc="268435946" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="36" pc="268435959" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="37" pc="268435983" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="38" pc="268436007" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="41" pc="268436014" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="42" pc="268436042" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="51" pc="268436118" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="52" pc="268436146" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="22" lineNum="60" pc="268436228" symbol="drawHoursMinutes"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="63" pc="268436239" symbol="getFormattedTime"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="64" pc="268436243" symbol="getFormattedTime"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="67" pc="268436262" symbol="getFormattedTime"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="68" pc="268436289" symbol="getFormattedTime"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="69" pc="268436306" symbol="getFormattedTime"/>
+        <entry filename="/Users/anton/Documents/Eclipse/workspace/The One Watch Face/source/Time.mc" id="23" lineNum="73" pc="268436334" symbol="getFormattedTime"/>
+        <entry filename="Rez" id="30" lineNum="32" pc="268436394" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="36" pc="268436406" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="37" pc="268436430" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="39" pc="268436473" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="9" object="true" symbol="TheOneWatchFaceApp"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="15" symbol="ColorBlue"/>
+        <entry field="true" id="23" symbol="ColorBlue"/>
+        <entry field="true" id="10" symbol="HOURS"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" object="true" symbol="Time"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="22" symbol="ColorWhite"/>
+        <entry field="true" id="30" symbol="ColorWhite"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389068" method="true" symbol="draw"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="21" symbol="ColorBlack"/>
+        <entry field="true" id="33" symbol="&lt;globals/Time/&lt;&gt;App&gt;"/>
+        <entry field="true" id="29" symbol="ColorBlack"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="16" symbol="ColorRed"/>
-        <entry field="true" id="17" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="13" symbol="MINUTES_COLOR"/>
+        <entry field="true" id="24" symbol="ColorRed"/>
+        <entry field="true" id="34" symbol="&lt;globals/Time/&lt;&gt;Fonts&gt;"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="23" symbol="AppName"/>
+        <entry field="true" id="31" symbol="AppName"/>
+        <entry field="true" id="21" symbol="MinutesFont"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="37" method="true" symbol="getFormattedTime"/>
+        <entry field="true" id="38" symbol="&lt;globals/TheOneWatchFaceApp/&lt;&gt;mView&gt;"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry field="true" id="19" symbol="LauncherIcon"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="36" method="true" symbol="drawHoursMinutes"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="8389065" symbol="locY"/>
-        <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="10" object="true" symbol="TheOneWatchFaceView"/>
+        <entry id="16" object="true" symbol="TheOneWatchFaceView"/>
+        <entry field="true" id="32" symbol="HoursColorTitle"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="19" symbol="ColorDarkGray"/>
+        <entry field="true" id="28" symbol="MinutesColorTitle"/>
+        <entry field="true" id="26" symbol="ColorDarkGray"/>
         <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="12" symbol="HOURS_COLOR"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry id="8389348" symbol="font"/>
-        <entry field="true" id="14" symbol="ColorLightGray"/>
-        <entry id="8389347" symbol="color"/>
-        <entry field="true" id="18" symbol="BackgroundColorTitle"/>
-        <entry id="12" module="true" symbol="Layouts"/>
+        <entry field="true" id="22" symbol="ColorLightGray"/>
+        <entry field="true" id="25" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="20" symbol="HoursFont"/>
+        <entry id="18" module="true" symbol="Layouts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="27" symbol="MilitaryFormatTitle"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="11" module="true" symbol="Menus"/>
+        <entry field="true" id="14" symbol="HOURS_VIEW"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry field="true" id="35" symbol="&lt;globals/Time/&lt;&gt;Properties&gt;"/>
+        <entry field="true" id="11" symbol="MINUTES"/>
+        <entry field="true" id="15" symbol="MINUTES_VIEW"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
@@ -96,30 +117,34 @@
         <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
         <entry endPc="268435600" name="state" stackId="1" startPc="268435595"/>
         <entry endPc="268435605" name="state" stackId="1" startPc="268435600"/>
-        <entry endPc="268435733" name="dc" stackId="1" startPc="268435691"/>
-        <entry endPc="268436052" name="view" stackId="6" startPc="268435742"/>
-        <entry endPc="268436052" name="hours" stackId="4" startPc="268435742"/>
-        <entry endPc="268436052" name="timeString" stackId="5" startPc="268435742"/>
-        <entry endPc="268436052" name="clockTime" stackId="3" startPc="268435742"/>
-        <entry endPc="268436052" name="timeFormat" stackId="2" startPc="268435742"/>
-        <entry endPc="268436053" name="dc" stackId="1" startPc="268435738"/>
-        <entry endPc="268436294" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436080"/>
-        <entry endPc="268436294" name="rez_cmp_local_custom_drawable_17986426809419351421" stackId="2" startPc="268436080"/>
-        <entry endPc="268436295" name="dc" stackId="1" startPc="268436068"/>
+        <entry endPc="268435749" name="dc" stackId="1" startPc="268435707"/>
+        <entry endPc="268435779" name="dc" stackId="1" startPc="268435754"/>
+        <entry endPc="268435923" name="params" stackId="1" startPc="268435794"/>
+        <entry endPc="268435942" name="dc" stackId="1" startPc="268435923"/>
+        <entry endPc="268436238" name="x" stackId="5" startPc="268435946"/>
+        <entry endPc="268436238" name="formattedTime" stackId="2" startPc="268435946"/>
+        <entry endPc="268436238" name="hoursColor" stackId="3" startPc="268435946"/>
+        <entry endPc="268436238" name="minutesColor" stackId="4" startPc="268435946"/>
+        <entry endPc="268436239" name="dc" stackId="1" startPc="268435942"/>
+        <entry endPc="268436393" name="clockTime" stackId="1" startPc="268436243"/>
+        <entry endPc="268436500" name="rez_cmp_local_custom_drawable_93275580726416317221" stackId="2" startPc="268436406"/>
+        <entry endPc="268436500" name="rez_cmp_local_custom_drawable_Time" stackId="3" startPc="268436406"/>
+        <entry endPc="268436501" name="dc" stackId="1" startPc="268436394"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="182" parentId="globals" symbolId="TheOneWatchFaceView" type="class"/>
-        <dataEntry offset="277" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry offset="332" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="450" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="512" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="543" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="693" parentId="globals" symbolId="TheOneWatchFaceApp" type="class"/>
+        <dataEntry offset="278" parentId="globals" symbolId="TheOneWatchFaceView" type="class"/>
+        <dataEntry offset="373" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="428" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="507" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="546" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="577" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="624" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="655" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="694" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="813" parentId="globals" symbolId="Time" type="class"/>
+        <dataEntry offset="908" parentId="globals" symbolId="TheOneWatchFaceApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="Background">
@@ -167,6 +192,21 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="TheOneWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Time">
+            <param id="params"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Time">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHoursMinutes" parent="Time">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFormattedTime" parent="Time">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="WatchFace" parent="Layouts">

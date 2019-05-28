@@ -3,7 +3,8 @@
     <string id="AppName">The One Watch Face</string>
 
     <string id="BackgroundColorTitle">Background Color</string>
-    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="HoursColorTitle">Hours Color</string>
+    <string id="MinutesColorTitle">Minutes Color</string>
     <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
 
     <string id="ColorBlack">Black</string>
